@@ -1,0 +1,6 @@
+Name: Surname: Age: Weight: High:
+Rossi Orazio 28 80 1,70
+Gatti Mario 56 72 1,95
+Rossi Lorenzo 22 184 2,15
+Conci Bepi 98 55 1,53
+Pier Tony 11 35 0,70
